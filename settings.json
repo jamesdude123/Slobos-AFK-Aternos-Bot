@@ -8,7 +8,7 @@
   "server": {
     "ip": "cruorsmp.aternos.me",
     "port": 20239,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": true
   },
   "position": {
