@@ -1,20 +1,20 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "ProBotMC",
+    "username": "MC6967BOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "cruorsmp.aternos.me",
-    "port": 20239,
+    "ip": "horse.fi.freemcserver.net",
+    "port": 33922,
     "version": "1.21.11",
     "try-creative": true
   },
   "position": {
     "enabled": true,
     "x": 0,
-    "y": 100,
+    "y": 161,
     "z": 0
   },
   "utils": {
